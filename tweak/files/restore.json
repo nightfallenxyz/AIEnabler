@@ -1,0 +1,12 @@
+{
+    "restore_files": [
+      {
+        "file": "com.apple.MobileGestalt.plist",
+        "path": "/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/Caches/"
+      },
+        {
+            "file": "eligibility.plist",
+            "path": "var/db/os_eligibility/"
+        }
+    ]
+}
