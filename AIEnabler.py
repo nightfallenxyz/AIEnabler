@@ -149,6 +149,7 @@ def main():
     plist_file = None
     if action_choice == '1':
         plist_file = select_file()
+        print("Select your mobilegestalt file")
 
     modify_plist(plist_file, action_choice)
 
